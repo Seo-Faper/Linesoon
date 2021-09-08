@@ -9,7 +9,7 @@ from pprint import pprint
 
 client = discord.Client()
 
-token = "NzA5NTcwMjU1NjcyMDQ5Njc0.Xrn0zA.OOmxQYYJ9zeeA5GFJPR-Cd41UZw"
+token = "---------"
 
 imgmod = False
 chsmod = False
